@@ -8,8 +8,7 @@
   <p>
 Amazon Clone (ReactJS, Webhooks, complete Stripe Payments Checkout, Cloud Firestore database, NextAuth, Redux, Google Authentication, Add to Basket Functionality, Tailwind CSS)
   </p>
-## <a href="https://amazon-sclone.vercel.app" target="_blank">VISIT THE WEBSITE</a>
-  
+
 <!-- Badges -->
 
 <a href="https://amazon-sclone.vercel.app" target="_blank">![](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)</a>
@@ -31,6 +30,9 @@ Amazon Clone (ReactJS, Webhooks, complete Stripe Payments Checkout, Cloud Firest
 </div>
 
 <br />
+
+<h2> <a href="https://amazon-sclone.vercel.app" target="_blank">VISIT THE WEBSITE 🚀</a> </h2>
+  
 
 <!-- Table of Contents -->
 
