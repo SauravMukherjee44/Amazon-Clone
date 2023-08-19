@@ -1,0 +1,37 @@
+{
+  "name": "amazon-clone",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@next/font": "13.1.1",
+    "@reduxjs/toolkit": "^1.9.1",
+    "@stripe/stripe-js": "^1.46.0",
+    "@tailwindcss/line-clamp": "^0.4.2",
+    "axios": "^1.2.1",
+    "firebase": "^9.15.0",
+    "firebase-admin": "^11.4.1",
+    "framer-motion": "^8.0.2",
+    "micro": "^10.0.1",
+    "moment": "^2.29.4",
+    "next": "13.1.1",
+    "next-auth": "^4.18.7",
+    "react": "18.2.0",
+    "react-currency-formatter": "^1.1.0",
+    "react-dom": "18.2.0",
+    "react-hot-toast": "^2.4.0",
+    "react-redux": "^8.0.5",
+    "react-responsive-carousel": "^3.2.23",
+    "stripe": "^11.5.0"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.13",
+    "postcss": "^8.4.20",
+    "tailwindcss": "^3.2.4"
+  }
+}
