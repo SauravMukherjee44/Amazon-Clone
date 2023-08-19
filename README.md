@@ -8,7 +8,7 @@
   <p>
 Amazon Clone (ReactJS, Webhooks, complete Stripe Payments Checkout, Cloud Firestore database, NextAuth, Redux, Google Authentication, Add to Basket Functionality, Tailwind CSS)
   </p>
-  
+## <a href="https://amazon-sclone.vercel.app" target="_blank">VISIT THE WEBSITE</a>
   
 <!-- Badges -->
 
@@ -61,11 +61,6 @@ Amazon Clone (ReactJS, Webhooks, complete Stripe Payments Checkout, Cloud Firest
 
 </div>
 
-## <a href="https://amazon-sclone.vercel.app" target="_blank">LIVE DEMO 💥</a>
-
-![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)
-![forthebadge](https://forthebadge.com/images/badges/for-you.svg)
-![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)
 
 ### :space_invader: Tech Stack
 
