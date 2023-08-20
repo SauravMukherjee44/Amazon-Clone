@@ -13,19 +13,19 @@ Amazon Clone (ReactJS, Webhooks, complete Stripe Payments Checkout, Cloud Firest
 
 <a href="https://amazon-sclone.vercel.app" target="_blank">![](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)</a>
 ![](https://img.shields.io/badge/Maintained-Yes-indigo)
-![](https://img.shields.io/github/forks/SauravMukherjee4/AMAZON-Clone.svg)
-![](https://img.shields.io/github/stars/SauravMukherjee4/AMAZON-Clone.svg)
-![](https://img.shields.io/github/issues/SauravMukherjee4/AMAZON-Clone)
-![](https://img.shields.io/github/last-commit/SauravMukherjee4/AMAZON-Clone)
+![](https://img.shields.io/github/forks/SauravMukherjee44/Amazon-Clone.svg)
+![](https://img.shields.io/github/stars/SauravMukherjee44/Amazon-Clone.svg)
+![](https://img.shields.io/github/issues/SauravMukherjee44/Amazon-Clone)
+![](https://img.shields.io/github/last-commit/SauravMukherjee44/Amazon-Clone)
 
 <h4>
     <a href="https://amazon-sclone.vercel.app">View Demo</a>
   <span> · </span>
-    <a href="https://github.com/SauravMukherjee44/AMAZON-Clone/blob/master/README.md">Documentation</a>
+    <a href="https://github.com/SauravMukherjee44/Amazon-Clone/blob/master/README.md">Documentation</a>
   <span> · </span>
-    <a href="https://github.com/SauravMukherjee44/AMAZON-Clone/issues">Report Bug</a>
+    <a href="https://github.com/SauravMukherjee44/Amazon-Clone/issues">Report Bug</a>
   <span> · </span>
-    <a href="https://github.com/SauravMukherjee44/AMAZON-Clone/issues">Request Feature</a>
+    <a href="https://github.com/SauravMukherjee44/Amazon-Clone/issues">Request Feature</a>
   </h4>
 </div>
 
